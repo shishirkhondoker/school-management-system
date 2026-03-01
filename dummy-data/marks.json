@@ -1,0 +1,82 @@
+[
+  {
+    "_id": { "$oid": "65f500000000000000000001" },
+    "studentId": { "$oid": "65f400000000000000000001" },
+    "exam": "Mid Term",
+    "marks": { "bangla": 85, "english": 80, "math": 92, "islam": 88, "ict": 90 },
+    "total": 435,
+    "grade": "A+"
+  },
+  {
+    "_id": { "$oid": "65f500000000000000000002" },
+    "studentId": { "$oid": "65f400000000000000000002" },
+    "exam": "Mid Term",
+    "marks": { "bangla": 78, "english": 75, "math": 88, "islam": 82, "ict": 80 },
+    "total": 403,
+    "grade": "A"
+  },
+  {
+    "_id": { "$oid": "65f500000000000000000003" },
+    "studentId": { "$oid": "65f400000000000000000003" },
+    "exam": "Mid Term",
+    "marks": { "bangla": 82, "english": 79, "math": 85, "islam": 80, "ict": 83 },
+    "total": 409,
+    "grade": "A"
+  },
+  {
+    "_id": { "$oid": "65f500000000000000000004" },
+    "studentId": { "$oid": "65f400000000000000000004" },
+    "exam": "Mid Term",
+    "marks": { "bangla": 75, "english": 70, "math": 78, "islam": 72, "ict": 74 },
+    "total": 369,
+    "grade": "A-"
+  },
+  {
+    "_id": { "$oid": "65f500000000000000000005" },
+    "studentId": { "$oid": "65f400000000000000000005" },
+    "exam": "Mid Term",
+    "marks": { "bangla": 88, "english": 84, "math": 90, "islam": 86, "ict": 87 },
+    "total": 435,
+    "grade": "A+"
+  },
+  {
+    "_id": { "$oid": "65f500000000000000000006" },
+    "studentId": { "$oid": "65f400000000000000000006" },
+    "exam": "Mid Term",
+    "marks": { "bangla": 90, "english": 86, "math": 95, "islam": 92, "ict": 91 },
+    "total": 454,
+    "grade": "A+"
+  },
+  {
+    "_id": { "$oid": "65f500000000000000000007" },
+    "studentId": { "$oid": "65f400000000000000000007" },
+    "exam": "Mid Term",
+    "marks": { "bangla": 68, "english": 65, "math": 72, "islam": 70, "ict": 69 },
+    "total": 344,
+    "grade": "B"
+  },
+  {
+    "_id": { "$oid": "65f500000000000000000008" },
+    "studentId": { "$oid": "65f400000000000000000008" },
+    "exam": "Mid Term",
+    "marks": { "bangla": 80, "english": 78, "math": 84, "islam": 79, "ict": 82 },
+    "total": 403,
+    "grade": "A"
+  },
+  {
+    "_id": { "$oid": "65f500000000000000000009" },
+    "studentId": { "$oid": "65f400000000000000000009" },
+    "exam": "Mid Term",
+    "marks": { "bangla": 74, "english": 72, "math": 76, "islam": 71, "ict": 73 },
+    "total": 366,
+    "grade": "A-"
+  },
+  {
+    "_id": { "$oid": "65f500000000000000000010" },
+    "studentId": { "$oid": "65f400000000000000000010" },
+    "exam": "Mid Term",
+    "marks": { "bangla": 69, "english": 66, "math": 72, "islam": 68, "ict": 70 },
+    "total": 345,
+    "grade": "B"
+  }
+]

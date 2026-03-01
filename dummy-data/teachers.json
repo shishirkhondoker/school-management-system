@@ -1,0 +1,12 @@
+[
+  { "_id": { "$oid": "65f300000000000000000001" }, "name": "Md. Hasan Ali", "subject": "Math", "classId": { "$oid": "65f200000000000000000001" } },
+  { "_id": { "$oid": "65f300000000000000000002" }, "name": "Shirin Akter", "subject": "English", "classId": { "$oid": "65f200000000000000000002" } },
+  { "_id": { "$oid": "65f300000000000000000003" }, "name": "Nazmul Huda", "subject": "Bangla", "classId": { "$oid": "65f200000000000000000003" } },
+  { "_id": { "$oid": "65f300000000000000000004" }, "name": "Rokeya Begum", "subject": "ICT", "classId": { "$oid": "65f200000000000000000004" } },
+  { "_id": { "$oid": "65f300000000000000000005" }, "name": "Mawlana Farid", "subject": "Islam", "classId": { "$oid": "65f200000000000000000005" } },
+  { "_id": { "$oid": "65f300000000000000000006" }, "name": "Tanvir Ahmed", "subject": "Math", "classId": { "$oid": "65f200000000000000000002" } },
+  { "_id": { "$oid": "65f300000000000000000007" }, "name": "Nusrat Jahan", "subject": "English", "classId": { "$oid": "65f200000000000000000003" } },
+  { "_id": { "$oid": "65f300000000000000000008" }, "name": "Saiful Islam", "subject": "Bangla", "classId": { "$oid": "65f200000000000000000004" } },
+  { "_id": { "$oid": "65f300000000000000000009" }, "name": "Imran Hossain", "subject": "ICT", "classId": { "$oid": "65f200000000000000000001" } },
+  { "_id": { "$oid": "65f300000000000000000010" }, "name": "Abu Bakar Siddique", "subject": "Islam", "classId": { "$oid": "65f200000000000000000005" } }
+]
