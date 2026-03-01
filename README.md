@@ -1,4 +1,3 @@
-# school-management-system
 # School Management System (MongoDB Backend)
 
 A professionally structured School Management Backend built with **MongoDB, Node.js, Express, and Mongoose** for practicing real-world database design and REST API development.
